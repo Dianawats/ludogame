@@ -172,3 +172,12 @@ i {
 
 .winner { background-color: #f7f7f7; }
 .winner .player-name { font-weight: 300; color: rgba(80, 150, 6, 0.925); }
+
+.footer{
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+
+}
