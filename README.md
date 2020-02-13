@@ -15,6 +15,6 @@
 ## Authors
 * **Diana Genius**
 
-##Acknowledgement
+## Acknowledgement
 * Inspiration
 * Fellow Developers
